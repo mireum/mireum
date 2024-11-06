@@ -7,6 +7,7 @@
   <div>
     <h4>Frontend</h4>
     <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+    <img src="https://img.shields.io/badge/Vue-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=61DAFB" />&nbsp
     <img src="https://img.shields.io/badge/Redux-20232a.svg?style=for-the-badge&logo=Redux&logoColor=#764ABC" />&nbsp
     <img src="https://img.shields.io/badge/TypeScript-00273F.svg?style=for-the-badge&logo=typescript&logoColor=#3178C6">&nbsp
     <img src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=#000000">&nbsp
